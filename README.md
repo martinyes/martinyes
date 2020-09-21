@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [projects](https://mxrtn.me/projects).
 
-- 📫 You can email me at **martin**@**lexium**.**cloud**.
+- 📫 You can email me at **martin**@**lexium**.**cloud**
 
 <p align="center">
 <a href= "https://twitter.com/Martinnkek"><img width="20" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"/></a>
