@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 
-- 🔭 I’m currently working on [projects](https://github.com/martinyes/projects)
+- 🔭 I’m currently working on projects at **AuraSide, Inc** and **Moonmark**
 
 - 📫 You can email me at **martin**@**lexium**.**cloud**
 
