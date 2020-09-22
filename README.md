@@ -14,4 +14,4 @@
 
 ## Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=martinyes&show_icons=true&theme=vue-dark)
+![Martin Vass's github stats](https://github-readme-stats.vercel.app/api?username=martinyes&show_icons=true&theme=vue-dark)
