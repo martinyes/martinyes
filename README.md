@@ -2,7 +2,7 @@
 
 ## Info
 
-- 🔭 I’m currently working on projects at **AuraSide, Inc**, **Moonmark** and **Verio**. I also work for **customers**.
+- 🔭 I’m currently working on projects at **AuraSide, Inc**, and **Verio**. I also work for **customers**.
 
 - 📫 You can email me at **martin**@**lexium**.**cloud**
 
@@ -18,7 +18,3 @@
 <a href= "https://code.visualstudio.com/"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg"/></a>
 <a href= "https://github.com"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/></a>
 </p>
-
-## Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=martinyes&show_icons=true&hide_border=true&theme=vue-dark&count_private=true)
