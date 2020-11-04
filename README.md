@@ -2,7 +2,7 @@
 
 ## Info
 
-- 🔭 I’m currently working on projects at **AuraSide, Inc**, and **Verio**. I also work for **customers**.
+- 🔭 I’m currently working on projects at **AuraSide, Inc**. I also work for **customers**.
 
 - 📫 You can email me at **martin**@**lexium**.**cloud**
 
