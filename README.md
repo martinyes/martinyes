@@ -13,7 +13,7 @@
 </p>
 
 ## Tools
-You can see all the tools I'm using for **programming**.
+You can see all the tools below that I'm using for **programming**.
 <p align="center">
 <a href= "https://jetbrains.com"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jetbrains.svg"/></a>
 <a href= "https://code.visualstudio.com/"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg"/></a>
