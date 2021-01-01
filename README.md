@@ -15,6 +15,7 @@
 - #### AuraSide, Inc. (2018-Present)
   - Working with Java to build various systems
   - Creating modern web sites using TypeScript
+  - System Administrator
 
 - #### Freelancing (2021-Present)
   - Creating applications for customers, mainly in Java.
