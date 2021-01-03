@@ -13,7 +13,7 @@
 ## Contact
 - 📫 You can email me at **martin**@**lexium**.**cloud**
 
-- 📫 Discord: MartiN#0001
+- 📫 Discord: memes#2572
 
 <p align="center">
   <a href= "https://lexium.cloud/"><img width="25" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>
