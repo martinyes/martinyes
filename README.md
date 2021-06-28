@@ -6,6 +6,7 @@
 - Firebase
 - MongoDB, Postgres, MySQL
 - GCP, AWS
+- Working with large-scale web applications
 
 ## Work
 
